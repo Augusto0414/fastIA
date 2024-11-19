@@ -1,0 +1,11 @@
+__pycache__/
+*.pkl
+*.log
+data/
+.venv/
+venv/
+notebooks/
+
+modelo_plantas.h5
+modelo_plantas_mejorado.h5
+modelo_plantas_mejorado_0.h5

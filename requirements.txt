@@ -1,0 +1,13 @@
+tensorflow
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+tensorflow-hub
+keras
+matplotlib
+fastapi
+pillow
+numpy
+tensorflow
