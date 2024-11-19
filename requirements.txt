@@ -11,3 +11,4 @@ fastapi
 pillow
 numpy
 tensorflow
+uvicorn
