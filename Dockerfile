@@ -9,7 +9,7 @@ COPY ./src /app/src
 COPY ./modelo_plantas_mejorado.h5 /app
 COPY ./plantas.json /app
 
-# Instalar las dependencias
+# Copiar el archivo de dependencias y instalar
 COPY requirements.txt /app/
 RUN pip install --no-cache-dir -r requirements.txt
 
@@ -17,4 +17,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 8000
 
 # Comando para ejecutar la API con Uvicorn
-CMD ["uvicorn", "src.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "src.api:app", "--host", "0.0.0.0", "--port", "8000"]
