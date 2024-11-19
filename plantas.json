@@ -1,0 +1,112 @@
+{
+    "0": {
+        "nombre": "Acacia",
+        "descripcion": "Árbol o arbusto espinoso de clima cálido, conocido por su madera y flores.",
+        "caracteristicas": {
+            "tamaño": "Árbol o arbusto de tamaño variable, generalmente de 5 a 10 metros.",
+            "hábitat": "Crece en regiones cálidas, principalmente en zonas secas y semiáridas.",
+            "usos": "La madera se utiliza para construcción, y sus flores son comestibles y usadas en medicina tradicional.",
+            "propiedades_medicinales": "En algunas culturas, la corteza y las hojas se usan para tratar enfermedades respiratorias."
+        }
+    },
+    "1": {
+        "nombre": "Balsamo",
+        "descripcion": "Árbol conocido por su resina aromática utilizada en perfumes y medicinas.",
+        "caracteristicas": {
+            "tamaño": "Puede alcanzar hasta 15 metros de altura.",
+            "hábitat": "Habita en bosques tropicales húmedos de América Central y del Sur.",
+            "usos": "Su resina es usada en la fabricación de perfumes, y como tratamiento en medicina tradicional.",
+            "propiedades_medicinales": "La resina tiene propiedades antiinflamatorias y es utilizada para aliviar dolores articulares."
+        }
+    },
+    "2": {
+        "nombre": "Camajon",
+        "descripcion": "Árbol tropical con madera resistente, usado en construcción.",
+        "caracteristicas": {
+            "tamaño": "Árbol mediano, con altura de hasta 20 metros.",
+            "hábitat": "Crece en bosques húmedos tropicales.",
+            "usos": "Su madera es utilizada para la construcción de viviendas, muebles y otros productos de carpintería.",
+            "propiedades_medicinales": "En algunas regiones se utilizan las hojas para aliviar problemas estomacales."
+        }
+    },
+    "3": {
+        "nombre": "Carreto",
+        "descripcion": "Árbol de madera dura, utilizado en muebles y construcciones rústicas.",
+        "caracteristicas": {
+            "tamaño": "Árbol grande que puede superar los 30 metros de altura.",
+            "hábitat": "Bosques tropicales y subtropicales.",
+            "usos": "Madera utilizada en la fabricación de muebles y estructuras resistentes.",
+            "propiedades_medicinales": "Se cree que sus hojas tienen propiedades antisépticas."
+        }
+    },
+    "4": {
+        "nombre": "Cedro",
+        "descripcion": "Árbol con madera aromática, resistente y popular en ebanistería.",
+        "caracteristicas": {
+            "tamaño": "Árbol de tamaño grande, llegando a más de 40 metros de altura.",
+            "hábitat": "Común en bosques tropicales y subtropicales.",
+            "usos": "Su madera se utiliza en la fabricación de muebles de alta calidad, y para la creación de estructuras arquitectónicas.",
+            "propiedades_medicinales": "Se utiliza en algunos remedios tradicionales para aliviar afecciones respiratorias."
+        }
+    },
+    "5": {
+        "nombre": "Ceiba",
+        "descripcion": "Árbol emblemático con tronco ancho y flores grandes, símbolo en varias culturas.",
+        "caracteristicas": {
+            "tamaño": "Árbol grande que puede superar los 50 metros de altura.",
+            "hábitat": "Tropical y subtropical, común en América Central y del Sur.",
+            "usos": "La madera se utiliza en la fabricación de muebles, y su resina en medicina tradicional.",
+            "propiedades_medicinales": "La resina de la Ceiba se utiliza como tratamiento en afecciones respiratorias."
+        }
+    },
+    "6": {
+        "nombre": "Corazón fino",
+        "descripcion": "Árbol con madera fina, comúnmente utilizado en carpintería.",
+        "caracteristicas": {
+            "tamaño": "Árbol mediano, puede alcanzar hasta 20 metros.",
+            "hábitat": "Bosques tropicales y subtropicales.",
+            "usos": "Su madera es apreciada para la fabricación de muebles finos y artesanías.",
+            "propiedades_medicinales": "Se utiliza para aliviar dolores musculares y articulares."
+        }
+    },
+    "7": {
+        "nombre": "Ebano",
+        "descripcion": "Árbol tropical con madera negra y densa, muy valiosa.",
+        "caracteristicas": {
+            "tamaño": "Árbol grande que puede llegar hasta 30 metros de altura.",
+            "hábitat": "Bosques tropicales, especialmente en África y Asia.",
+            "usos": "La madera se usa en la fabricación de muebles finos, instrumentos musicales y objetos decorativos.",
+            "propiedades_medicinales": "En algunas culturas, se utilizan las hojas y corteza para tratar diversas afecciones."
+        }
+    },
+    "8": {
+        "nombre": "Guayacan",
+        "descripcion": "Árbol con madera extremadamente dura, usado en construcción y artesanía.",
+        "caracteristicas": {
+            "tamaño": "Árbol mediano, de hasta 15 metros.",
+            "hábitat": "Bosques secos tropicales y subtropicales.",
+            "usos": "Madera utilizada para la fabricación de herramientas, rodamientos y muebles.",
+            "propiedades_medicinales": "La resina se usa en medicina tradicional para tratar artritis y enfermedades respiratorias."
+        }
+    },
+    "9": {
+        "nombre": "Roble",
+        "descripcion": "Árbol robusto con madera resistente y duradera.",
+        "caracteristicas": {
+            "tamaño": "Árbol grande, puede superar los 40 metros de altura.",
+            "hábitat": "Bosques templados del hemisferio norte.",
+            "usos": "La madera es utilizada en la fabricación de muebles, toneles y para la construcción de estructuras duraderas.",
+            "propiedades_medicinales": "Algunas partes del roble tienen propiedades astringentes y se utilizan en remedios caseros."
+        }
+    },
+    "10": {
+        "nombre": "Tananeo",
+        "descripcion": "Árbol tropical con propiedades medicinales y madera versátil.",
+        "caracteristicas": {
+            "tamaño": "Árbol de tamaño mediano, puede alcanzar hasta 25 metros.",
+            "hábitat": "Bosques húmedos y semi-húmedos de América Central y del Sur.",
+            "usos": "La madera se utiliza en la fabricación de muebles y en construcción ligera.",
+            "propiedades_medicinales": "Las hojas y la corteza se utilizan tradicionalmente para tratar dolores de estómago y enfermedades respiratorias."
+        }
+    }
+}
